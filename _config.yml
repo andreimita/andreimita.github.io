@@ -7,8 +7,8 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Andrei Mîță
-tagline:          'Pagină personală'
+title:            AM
+tagline:          'Andrei Mîță'
 description:      'Toatel lucrurile într-un singur loc: analize, rapoarte, articole, cod.'
 url:              https://andreimita.github.io
 baseurl:          /
@@ -17,10 +17,10 @@ author:
   name:           'Andrei Mîță'
   url:            https://twitter.com/pisiconline
 
-paginate:         5
+paginate:         1
 
 # Custom vars
-version:          2.1.0
+version:          0.0.1
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/andreimita
